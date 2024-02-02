@@ -1,1 +1,1 @@
-# file-zipper
+# File Zipper using Huffman Coding
